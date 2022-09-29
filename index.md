@@ -3,6 +3,18 @@
 
 I am an **athlete**, a **student** and **programmer**!
 
+Click [Here] for Student (###-Student)
+Click [Here] for Athlete (###-Athlete)
+Click [Here] for Programmer (###-Programmer)
+
+### Student
+
+I am currently an Electrical and Computer Engineering student going to UCSD!
+As a third year I am beginning to take more ECE upper division electives which I hope will help me develop my knowledge as a student. 
+As of right now I am in a Deep Learning class which I hope to use to 
+
+### Athlete
+
 As an athlete I have experience with 
 ***Basketball***
 ![Basketball](https://stacknj.com/wp-content/uploads/2021/08/basketball.jpeg)
@@ -18,6 +30,9 @@ A quote that I learned as an athlete that can apply to all parts of my life has 
 > You miss 100% of the shots you don't take. 
 
 I have found this applicable even as a promgrammer because not taking that first step in the project will mean the won't get started.
+
+
+### Programmer
 
 After coding for 4 years I have gainned experience with multiple languages such as:
 ```
