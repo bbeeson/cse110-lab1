@@ -3,9 +3,9 @@
 
 I am an **athlete**, a **student** and **programmer**!
 
-Click [Here] for Student (###-Student)
-Click [Here] for Athlete (###-Athlete)
-Click [Here] for Programmer (###-Programmer)
+Click [Here](###-Student) for Student   
+Click [Here](###-Athlete) for Athlete   
+Click [Here](###-Programmer) for Programmer 
 
 ### Student
 
@@ -41,3 +41,19 @@ C++
 Java
 ```
 
+I look forward to using the knowledge I gain from taking CSE and ECE classes to further myself in my career. 
+One of the ambitions or dream goals would be to work for a gaming company like [Steam](https://store.steampowered.com/).
+
+I have even developed a few ideas about using my programming skills for some of my hobbies such as gaming!
+
+1. Using Deep Learning to create a program that will predict round wins for games
+2. Building a piece of software that will analyze highlights from professional matches and allow you to try the highlight out yourself
+3. Creating a software that will help people practice outside of a match!
+
+I want to gain enough experience so that I can complete some of these projects on my own.
+
+Some of the setbacks I expect to encounter are:
+
+- My inexperience working with game code
+- Finding the time to work on side projects
+- Finding people that would be able to help with the developments of these projects
