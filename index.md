@@ -3,9 +3,9 @@
 
 I am an **athlete**, a **student** and **programmer**!
 
-Click [Here](###-Student) for Student   
-Click [Here](###-Athlete) for Athlete   
-Click [Here](###-Programmer) for Programmer 
+Click [Here](#student) for Student   
+Click [Here](#athlete) for Athlete   
+Click [Here](#programmer) for Programmer 
 
 ### Student
 
