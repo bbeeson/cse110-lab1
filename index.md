@@ -11,7 +11,7 @@ Click [Here] for Programmer (###-Programmer)
 
 I am currently an Electrical and Computer Engineering student going to UCSD!
 As a third year I am beginning to take more ECE upper division electives which I hope will help me develop my knowledge as a student. 
-As of right now I am in a Deep Learning class which I hope to use to 
+As of right now I am in a Deep Learning class which I hope to use to develop and apply during my life as a programmer.
 
 ### Athlete
 
