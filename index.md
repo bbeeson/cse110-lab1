@@ -31,12 +31,12 @@ A quote that I learned as an athlete that can apply to all parts of my life has 
 
 > You miss 100% of the shots you don't take. 
 
-I have found this applicable even as a promgrammer because not taking that first step in the project will mean the won't get started.
+I have found this applicable even as a promgrammer because not taking that first step in the project will mean the project won't get started.
 
 
 ### Programmer
 
-After coding for 4 years I have gainned experience with multiple languages such as:
+After coding for 4 years I have gained experience with multiple languages such as:
 ```
 C
 C++
