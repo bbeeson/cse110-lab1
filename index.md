@@ -3,6 +3,8 @@
 
 I am an **athlete**, a **student** and **programmer**!
 
+[Heres one of my favorite pictures of myself!](Stargazing.jpg)
+
 Click [Here](#student) for Student   
 Click [Here](#athlete) for Athlete   
 Click [Here](#programmer) for Programmer 
@@ -57,3 +59,5 @@ Some of the setbacks I expect to encounter are:
 - My inexperience working with game code
 - Finding the time to work on side projects
 - Finding people that would be able to help with the developments of these projects
+
+Thank you for visiting my User Page!
